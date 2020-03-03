@@ -19,6 +19,24 @@ $posts = [
 ];
 
 $images = [
-    
+    [
+        "title" => "farming",
+        "src" => "img/farm1.jpg"
+    ],
+    [
+        "title" => "farming",
+        "src" => "img/farm2.jfif"
+    ],
+    [
+        "title" => "farming",
+        "src" => "img/farm3.jpg"
+    ],
+    [
+        "title" => "farming",
+        "src" => "img/farm4.jpg"
+    ],
+    [
+        "title" => "farming",
+        "src" => "img/farm5.jpg"
+    ]
 ];
-?>

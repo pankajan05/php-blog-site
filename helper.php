@@ -26,3 +26,16 @@ function menus() {
         return [];
     }
 }
+
+/**
+ * Get all images
+ */
+function images() {
+    global $images;
+
+    if (isset($images) && count($images) > 0) {
+        return $images;
+    } else {
+        return [];
+    }
+}
