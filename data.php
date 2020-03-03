@@ -1,10 +1,10 @@
 <?php
 
 $menus = [
-    ["title" => "Home", "url" => "/"],
-    ["title" => "About", "url" => "#about"],
-    ["title" => "Gallery", "url" => "#gallery"],
-    ["title" => "Contact", "url" => "#contact"]
+    ["title" => "Home", "url" => "/php_blog_site/index"],
+    ["title" => "About", "url" => "/php_blog_site/about"],
+    ["title" => "Gallery", "url" => "/php_blog_site/gallery"],
+    ["title" => "Contact", "url" => "/php_blog_site/contact"]
 ];
 
 $posts = [
