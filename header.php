@@ -5,8 +5,8 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="">
-    <meta name="author" content="">
+    <meta name="description" content="This is php blog site to post the blogs">
+    <meta name="author" content="satkunam pankajan">
     <title>Dynamo blog page</title>
 
     <!-- Bootstrap core CSS -->
@@ -29,8 +29,8 @@
         <div class="row">
             <div class="col-lg-8 col-md-10 mx-auto">
                 <div class="site-heading text-light">
-                    <h1>Lazy blogger</h1>
-                    <span class="subheading">Its all about laziness and blogging...</span>
+                    <h1>Sabi blogger</h1>
+                    <span class="subheading">Its all about blogging about farming...</span>
                 </div>
             </div>
         </div>
@@ -39,7 +39,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-light" id="mainNav">
     <div class="container">
-        <a class="navbar-brand" href="/">LAZY</a>
+        <a class="navbar-brand" href="/">Sabi Blogs</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             Menu

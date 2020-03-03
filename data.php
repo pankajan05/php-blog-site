@@ -17,4 +17,8 @@ $posts = [
         "intro" => "This is simple content as second article and its cool"
     ]
 ];
+
+$images = [
+    
+];
 ?>
