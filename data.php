@@ -9,12 +9,12 @@ $menus = [
 
 $posts = [
     [
-        "title" => "Demo title 1",
-        "intro" => "This is simple content and its cool"
+        "title" => "How to farm",
+        "intro" => "Farming is an art. we need so much knowledge to earn profit in farming. we must consider so much things in farming."
     ],
     [
-        "title" => "Demo title 2",
-        "intro" => "This is simple content as second article and its cool"
+        "title" => "How to become a farmers",
+        "intro" => "To become a farmer we need some knowledge about plants and  what are the problem and how to handle it"
     ]
 ];
 

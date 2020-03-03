@@ -2,17 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c6380b5-332c-42d7-bbb9-a2fa4ec4e6f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/farm1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/farm2.jfif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/farm3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/farm4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/farm5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/pexels-photo-974314.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/wp1987043.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data.php" beforeDir="false" afterPath="$PROJECT_DIR$/data.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.php" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helper.php" beforeDir="false" afterPath="$PROJECT_DIR$/helper.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1583215072329</updated>
       <workItem from="1583215073751" duration="319000" />
-      <workItem from="1583215879870" duration="2623000" />
+      <workItem from="1583215879870" duration="2837000" />
     </task>
     <servers />
   </component>
